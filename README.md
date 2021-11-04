@@ -11,12 +11,11 @@ It can perform prediction of liver disease based on required features mention on
 
 
 - All Directories
+
 ![](1.jpg)
 
-- Created Model Result
-![](model_analysis.jpg)
-
 - Web App Working on AWS Elastic Beanstalk
+
 ![](2.jpg)
 
   
